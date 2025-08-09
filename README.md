@@ -7,8 +7,9 @@
 ### 技術スタック
 - フロントエンド: TypeScript(Reactメイン)
 - バックエンド: PHP、Go、Node.js
-- インフラ: GCP(メイン)・AWS
-- アーキテクチャ: DDD、MVC、オニオン、クリーンetc
+- インフラ: GCP・AWS
+- アーキテクチャ: DDD、MVC、オニオンアーキテクチャ、クリーンアーキテクチャなど
+- データベース: MySQL、DynamoDB
 
 ### マネジメント経験
 - スクラムマスター
@@ -19,7 +20,7 @@
 [ダウンロード](./assets/engineer_shokumukeirekisho.pdf)
 
 ## やりたいこと
-- 開発業務
+- 開発
 - インフラ構築・運用
 - 基本リモートワーク(出社応相談)
 
